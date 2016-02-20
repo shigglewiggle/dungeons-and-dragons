@@ -8,8 +8,8 @@ any bugs or glitches leave a note or comment please. There might be some issues 
 not 1-10. 
 
 HOW TO RUN:
--have a current version of java
--run the .jar file
+1)have a current version of java
+2)run the .jar file
 
 otherwise, download all the files and run timekeeper.java. There is a readme in the program under options -> help
 Im new to this so you may have to download the whole thing to run the .jar, im not sure.
